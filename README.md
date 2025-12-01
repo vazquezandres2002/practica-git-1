@@ -7,3 +7,6 @@ Crear commits.
 Trabajar con ramas.
 Publicar en GitHub.
 
+## Instrucciones de uso
+Este proyecto es una práctica de Git.
+Aquí aprenderás a manejar repositorios locales y remotos.
